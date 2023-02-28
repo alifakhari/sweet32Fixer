@@ -1,0 +1,15 @@
+D:\project\c#\sweet32Fixer\bin\Debug\net7.0\sweet32Fixer.exe
+D:\project\c#\sweet32Fixer\bin\Debug\net7.0\sweet32Fixer.deps.json
+D:\project\c#\sweet32Fixer\bin\Debug\net7.0\sweet32Fixer.runtimeconfig.json
+D:\project\c#\sweet32Fixer\bin\Debug\net7.0\sweet32Fixer.dll
+D:\project\c#\sweet32Fixer\bin\Debug\net7.0\sweet32Fixer.pdb
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.csproj.AssemblyReference.cache
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.GeneratedMSBuildEditorConfig.editorconfig
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.AssemblyInfoInputs.cache
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.AssemblyInfo.cs
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.csproj.CoreCompileInputs.cache
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.dll
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\refint\sweet32Fixer.dll
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.pdb
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\sweet32Fixer.genruntimeconfig.cache
+D:\project\c#\sweet32Fixer\obj\Debug\net7.0\ref\sweet32Fixer.dll
