@@ -13,7 +13,7 @@ namespace Sweet32Fixer
             {
                 // Console.WriteLine("Press Enter to continue ..."); Console.ReadLine();
                 Console.WriteLine("\nTo Asses the cipher suits, Press 'A'");
-                Console.WriteLine("To Fix the weak cipher suits, Press 'F'");
+                Console.WriteLine("To Fix the weak cipher suits, Press 'F', it may not work on your system :{");
                 Console.WriteLine("To Exit: press Escape");
                 var userinput = Console.ReadKey().Key;
 

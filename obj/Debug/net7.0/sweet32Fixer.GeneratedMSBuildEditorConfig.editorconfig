@@ -8,4 +8,4 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = sweet32Fixer
-build_property.ProjectDir = D:\project\c#\sweet32Fixer\
+build_property.ProjectDir = d:\project\c#\sweet32Fixer\
